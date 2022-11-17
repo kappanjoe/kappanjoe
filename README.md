@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kappanjoe!
 - 👀 I’m interested in changing careers and becoming an app/software developer.
-- 🌱 I’m currently learning Swift, SwiftUI, JavaScript, TypeScript, Python, C... (the list goes on)
+- 🌱 My current focus is on learning Swift/SwiftUI, JavaScript/TypeScript, & Python
 
 <!---
 kappanjoe/kappanjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

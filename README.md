@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kappanjoe!
-- 👀 I’m interested in changing careers to an app/software developer.
+- 👀 I’m interested in changing careers to be an app/software developer.
 - 🌱 My current focus is on learning Swift/SwiftUI, JavaScript/TypeScript, & Python. I'm also enrolled in a Part-Time Immersive programming bootcamp with [Code Chrysalis](https://www.codechrysalis.io) starting in January 2023.
 
 <!---

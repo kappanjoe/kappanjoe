@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kappanjoe!
-- 👀 I’m interested in changing careers to be an app/software developer.
-- 🌱 My current focus is on learning Swift/SwiftUI, JavaScript/TypeScript, & Python. I'm also enrolled in a Part-Time Immersive programming bootcamp with [Code Chrysalis](https://www.codechrysalis.io) starting in January 2023.
+- 🌱 I'm currently enrolled in Cohort 7 of the Part-Time Immersive full-stack web development course at [Code Chrysalis](https://www.codechrysalis.io).
+- 👀 After completing the course this summer, I will be looking for employment as a junior software developer. My current focus is on learning JavaScript/TypeScript and Swift/SwiftUI.
 
 <!---
 kappanjoe/kappanjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @kappanjoe!
-- 🌱 I recently graduated from Cohort 7 of the Part-Time Immersive full-stack web development course at [Code Chrysalis](https://www.codechrysalis.io).
-- 👀 Now that I've graduated, I am looking for employment as a junior software developer.
+### Hi! I’m kappanjoe.
 
-<!---
-kappanjoe/kappanjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love anything process-oriented, like handmade bookmaking and letterpress, translation from Japanese to English, and full-stack programming.
+
+Foremost, I’m a Software Engineer looking for new opportunities to work on something new and exciting, especially anything that has diversity, inclusion, and/or economic or ecological sustainability in mind. I love working with Swift and TypeScript, and I'm eager to learn more about Ruby. Please feel free to connect with me if you are interested in working together!
